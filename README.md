@@ -30,7 +30,7 @@
 
 ```text
 ml-course-koptyaev/
-├── README.md                 <-- Этот файл
+├── README.md                 
 ├── .gitignore
 ├── module-1-titanic/
 │   ├── README.md
