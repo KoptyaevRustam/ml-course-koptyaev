@@ -23,7 +23,7 @@
 |---|---|---|---|
 | 1 | Logistic Regression | ROC-AUC = 0.86 | 2026-09-29 |
 | 2 | Lasso | R² = 0.91 | 2026-11-03 |
-| 3 | Бинарная классификация (Churn) | LightGBM (Optuna) | ROC-AUC = 0.84 | 2026-11-03 |
+| 3 | LightGBM (Optuna) | ROC-AUC = 0.84 | 2026-11-03 |
 
 ---
 
